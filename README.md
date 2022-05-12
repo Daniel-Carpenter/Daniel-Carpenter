@@ -1,15 +1,13 @@
+
 ## About Daniel Carpenter
+<a target="_blank" href="https://www.linkedin.com/in/dbry1024/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 22 /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src ="https://komarev.com/ghpvc/?username=Daniel-Carpenter&style=flat"> 
+
 > Currently, I am a consultant that informs executive-decision making for operational objectives. This role applies my prior experience and education within `data science`, `financial`, `statistical` and `economic` modeling, and `leadership`.
 
-*You can find more above my professional experience here:*
-<p align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/dbry1024/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-![](https://komarev.com/ghpvc/?username=Daniel-Carpenter&style=flat)
-
-
 <br>
+
+## My Projects and Past Experiences
 
 ### Data Science
 Topic | Description
