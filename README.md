@@ -1,10 +1,11 @@
-### Hi there 👋
+### About Daniel Carpenter
 
 You can find more above my professional experience here:
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/dbry1024/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+![](https://komarev.com/ghpvc/?username=Daniel-Carpenter&style=flat)
 
 <!--
 **Daniel-Carpenter/Daniel-Carpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
