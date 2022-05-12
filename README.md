@@ -43,6 +43,6 @@ Topic | Description
 ------|-------------------------------
 [Intro to OOP](https://github.com/Daniel-Carpenter/Intro2ProgrammingOOP#readme) | The basics to be a better object-oriented programmer and Data Scientist
 [Advanced OOP and Abtractions](https://github.com/Daniel-Carpenter/AdvProgrammingOOP#readme) | Objected-oriented programming with challenging projects leading into Data Science applications
-[Intro to R](https://github.com/Daniel-Carpenter/IntroToR/blob/main/04%20-%20Project/README.md#final-project---intro-to-r) | A advanced MCMC project that walks you through `R`
+[Intro to R](https://github.com/Daniel-Carpenter/IntroToR/blob/main/04%20-%20Project/README.md#final-project---intro-to-r) | An advanced MCMC project that walks you through `R`
 <br>
 
