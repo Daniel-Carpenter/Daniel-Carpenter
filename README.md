@@ -10,7 +10,7 @@
 
 ## My Projects and Past Experiences
 
-### Data Science
+### 📊 Data Science 
 Topic | Description
 ------|-------------------------------
 [Linear and Integer Progamming with `python` and `Gurobi`](https://github.com/Daniel-Carpenter/Systems-Optimization#systems-optimization) | Key decision making models for long-term cooperate level planning
@@ -21,7 +21,7 @@ Topic | Description
 
 <br> 
 
-### Finance & Econometrics
+### 📈 Finance & Econometrics
 Topic | Description
 ------|-------------------------------
 [Portfolio Optimization](https://github.com/Daniel-Carpenter/Stock-Portfolio-Optimization#description-of-project) | Realtime Stock Portfolio Optimization Model in R using Modern Portfolio Theory
@@ -31,14 +31,14 @@ Econometrics | [Cheat Sheet](https://github.com/Daniel-Carpenter/Coding-Resource
 
 <br> 
 
-### Database Management with `SQL`
+### 🔒 Database Management with `SQL`
 * [End-to-end Azure cloud database management project, plus more](https://github.com/Daniel-Carpenter/Database-Management#database-managament-systems)
 * [The basics of SQL](https://github.com/Daniel-Carpenter/Coding-Resources/tree/master/SQL#sql-help-scripts)
 * [Relevant code snippets for managing a database](https://github.com/Daniel-Carpenter/Coding-Resources/blob/master/SQL/DBA%20Notes.md#dba-admin)
 
 <br>
 
-### Programming
+### 💻 Programming
 Topic | Description
 ------|-------------------------------
 [Intro to OOP](https://github.com/Daniel-Carpenter/Intro2ProgrammingOOP#readme) | The basics to be a better object-oriented programmer and Data Scientist
