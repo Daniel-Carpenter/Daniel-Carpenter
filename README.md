@@ -14,8 +14,8 @@
 Topic | Description
 ------|-------------------------------
 [Linear and Integer Progamming with `python` and `Gurobi`](https://github.com/Daniel-Carpenter/Systems-Optimization#systems-optimization) | Key decision making models for long-term cooperate level planning
-[Advanced Linear/Integer/Mixed Binary Programming](https://github.com/Daniel-Carpenter/Metaheuristics#advanced-analytics--metaheuristics) | Advances above modeling in breadth and depth by representing meticulate complexities of large cooperate level decision making
-[Heuristic and Metaheuristic Approachs](https://github.com/Daniel-Carpenter/Metaheuristics#advanced-analytics--metaheuristics) | Goes beyond linear programming to conquer real-world situations using ceoncepts from **simulated annealing**, **genetic algorithms**, and **particle swarm optimization** 
+[Advanced Linear/Integer/Mixed Binary Programming](https://github.com/Daniel-Carpenter/Metaheuristics#advanced-analytics--metaheuristics) | Advances above modeling in breadth and depth by tackling meticulate complexities of large cooperate level decision making
+[Heuristic and Metaheuristic Approachs](https://github.com/Daniel-Carpenter/Metaheuristics#advanced-analytics--metaheuristics) | Goes beyond linear programming to conquer real-world situations using concepts from **simulated annealing**, **genetic algorithms**, and **particle swarm optimization** 
 [Bayesian Data Science](https://github.com/Daniel-Carpenter/Bayesian-Statistics#bayesian-statistics) | The heart of many machine learning algorthms, plus enhancements to classical estimation and frequentist approaches *(e.g., overcoming OLS or NHT)*
 [Modeling Functions ](https://github.com/Daniel-Carpenter/Coding-Resources/tree/master/1.1%20-%20Conceptual/Modeling%20and%20Optimization#estimating-statistical-models-in-r-python-and-julia) | Matrix of modeling functions across R, Python, and Julia
 
