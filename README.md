@@ -27,7 +27,7 @@ Topic | Description
 [Econometrics](https://github.com/Daniel-Carpenter/Econometrics#econometrics-notes-and-examples) | [Cheat Sheet](https://github.com/Daniel-Carpenter/Econometrics/blob/main/Econometrics%20Cheat%20Sheet.pdf), a [Gentle Overview](https://github.com/Daniel-Carpenter/Econometrics/tree/main/00%20-%20High-Level%20Overview%20of%20Topics), and the [assumptions/`R` code to overcome bias](https://github.com/Daniel-Carpenter/Econometrics/tree/main/01%20-%20Notes%20and%20Examples)
 [Machine Learning and Economics](https://github.com/Daniel-Carpenter/Coding-Resources/tree/master/1.1%20-%20Conceptual/Machine%20Learning#machine-learning) | Overview of how Machine learning juxtaposes itself to econometrics
 
-<-- [Portfolio Optimization](https://github.com/Daniel-Carpenter/Stock-Portfolio-Optimization#description-of-project) | Realtime Stock Portfolio Optimization Model in R using Modern Portfolio Theory -->
+<!-- [Portfolio Optimization](https://github.com/Daniel-Carpenter/Stock-Portfolio-Optimization#description-of-project) | Realtime Stock Portfolio Optimization Model in R using Modern Portfolio Theory -->
 <br> 
 
 ### 🔒 Database Management with `SQL`
