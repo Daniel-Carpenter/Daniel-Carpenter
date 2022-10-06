@@ -16,7 +16,7 @@ Topic | Description
 [Advanced Linear/Integer/Mixed Binary Optimization in `Python`](https://github.com/Daniel-Carpenter/Metaheuristics#advanced-analytics--metaheuristics) | Advances above modeling in breadth and depth by tackling meticulate complexities of large cooperate level decision making
 [Heuristic and Metaheuristic Optimization in `Python`](https://github.com/Daniel-Carpenter/Metaheuristics#heuristic--metaheuristic-approaches) | Goes beyond linear programming to conquer real-world situations using concepts from **simulated annealing**, **genetic algorithms**, and **particle swarm optimization** 
 [Bayesian Data Science and Simulation in `R`](https://github.com/Daniel-Carpenter/Bayesian-Statistics#bayesian-statistics) | The heart of many machine learning algorithms, plus enhancements to classical estimation and frequentist approaches *(e.g., overcoming OLS or NHT)*
-[Key Modeling Functions](https://github.com/Daniel-Carpenter/Coding-Resources/tree/master/1.1%20-%20Conceptual/Modeling%20and%20Optimization#estimating-statistical-models-in-r-python-and-julia) | Matrix of modeling functions across R, Python, and Julia
+[Key Modeling Functions](https://github.com/Daniel-Carpenter/Coding-Resources/tree/master/Modeling%20Concepts/Modeling%20and%20Optimization#estimating-statistical-models-in-r-python-and-julia) | Matrix of modeling functions across R, Python, and Julia
 
 <br> 
 
