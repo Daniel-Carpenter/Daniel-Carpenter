@@ -28,7 +28,7 @@ Topic | Description
 [Stock Portfolio Optimization Analysis in `Python`](https://github.com/Daniel-Carpenter/Portfolio-Optimization#modern-portfolio-theory-using-particle-swarm-optimization) | Realtime Stock Portfolio Optimization Model in `Python` using Modern Portfolio Theory and Particle Swarm Optimization
 [Investment Fund Management](https://github.com/Daniel-Carpenter/Student-Investment-Fund#description-of-repo) | Earnings projection and valuation modeling for the mid-cap fund, using strategy of discovering undervalued assets. Ultimately moving over $205k of money-market assets
 [Econometrics in `R`](https://github.com/Daniel-Carpenter/Econometrics#econometrics-notes-and-examples) | [Cheat Sheet](https://github.com/Daniel-Carpenter/Econometrics/blob/main/Econometrics%20Cheat%20Sheet.pdf), a [Gentle Overview](https://github.com/Daniel-Carpenter/Econometrics/tree/main/00%20-%20High-Level%20Overview%20of%20Topics), and the [assumptions/`R` code to overcome bias](https://github.com/Daniel-Carpenter/Econometrics/tree/main/01%20-%20Notes%20and%20Examples)
-[Machine Learning and Economics](https://github.com/Daniel-Carpenter/Coding-Resources/tree/master/Modeling%20Concepts/Machine%20Learning#machine-learning) | Overview of how Machine learning juxtaposes itself to econometrics
+[Machine Learning and Economics](https://github.com/Daniel-Carpenter/Coding-Resources/tree/master/Modeling%20Concepts/Modeling%20and%20Optimization#estimating-statistical-models-in-r-python-and-julia) | Overview of how Machine learning juxtaposes itself to econometrics
 
 <br> 
 
