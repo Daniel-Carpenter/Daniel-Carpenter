@@ -12,7 +12,7 @@
 ### 📊 Data Science 
 Topic | Description
 ------|-------------------------------
-[Linear and Integer Optimization with `Python` and `Gurobi`](https://github.com/Daniel-Carpenter/Systems-Optimization#systems-optimization) | Key decision-making models for long-term cooperate level planning
+[Linear and Integer Optimization with `Python` and `Gurobi`](https://github.com/Daniel-Carpenter/Systems-Optimization#systems-optimization) | Key decision-making models for long-term corperate level planning
 [Advanced Linear/Integer/Mixed Binary Optimization in `Python`](https://github.com/Daniel-Carpenter/Metaheuristics#advanced-analytics--metaheuristics) | Advances above modeling in breadth and depth by tackling meticulate complexities of large cooperate level decision making
 [Heuristic and Metaheuristic Optimization in `Python`](https://github.com/Daniel-Carpenter/Metaheuristics#heuristic--metaheuristic-approaches) | Goes beyond linear programming to conquer real-world situations using concepts from **simulated annealing**, **genetic algorithms**, and **particle swarm optimization** 
 [Delivery Service ETA Prediction Model in `R`](https://github.com/Daniel-Carpenter/Delivery-Service-ETA-Prediction#predicting-time-of-arrival-for-food-delivery-service) | Ensemble of **machine learning** algorithms in `R` to predict estimated delivery time for food delivery service, given delivery conditions.
