@@ -19,6 +19,7 @@ Topic | Description
 [Applied Predictive Analysis in `R`](https://github.com/Daniel-Carpenter/Advanced-Analytics-in-R#advanced-data-analysis-with-r) | Applies **ML, deep learning, decision trees, traditional multivariate analysis, PCA, PCR, SVM, and elastic net** to real-world business problems.
 [Bayesian Data Science and Simulation in `R`](https://github.com/Daniel-Carpenter/Bayesian-Statistics#bayesian-statistics) | The heart of many machine learning algorithms, plus enhancements to classical estimation and frequentist approaches *(e.g., overcoming OLS or NHT)*
 [Key Modeling Functions](https://github.com/Daniel-Carpenter/Coding-Resources/tree/master/Modeling%20Concepts/Modeling%20and%20Optimization#estimating-statistical-models-in-r-python-and-julia) | Matrix of modeling functions across R, Python, and Julia
+[Personal **Package** Dev. in R](https://github.com/Daniel-Carpenter/styles) | Self-built package to enhance delivery of visualizations in `R`'s `ggplot2` package.
 
 <br> 
 
