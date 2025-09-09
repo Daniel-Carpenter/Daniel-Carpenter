@@ -4,7 +4,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/dbry1024/"><img src="img/linkedin.png" height = 30 /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="mailto:dbry1024@gmail.com"><img src="img/contact-me.png" height = 30 /></a>
 
-> I help advise executive leadership on enterprise-level capital projects, while concurrently developing the Chickasaw Nation's approach to algorithmic investment modeling. Within these areas, I apply and build my experience in data science, finance, economics, and leadership. In 2023, I obtained a Master's in Data Science at the University of Oklahoma's College of Engineering.
+> I help advise executive leadership on enterprise-level capital projects, while concurrently developing the approaches to algorithmic investment modeling. Within these areas, I apply and build my experience in data science, finance, economics, and leadership. In 2023, I obtained a Master's in Data Science at the University of Oklahoma's College of Engineering.
 
 ---
 
