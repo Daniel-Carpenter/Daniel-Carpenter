@@ -1,13 +1,27 @@
 ## About Daniel Carpenter
-<a target="_blank" href="https://www.linkedin.com/in/dbry1024/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 22 /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src ="https://komarev.com/ghpvc/?username=Daniel-Carpenter&style=flat"> 
+<a target="_blank" href="https://daniel-carpenter.github.io/Portfolio/"><img src="img/my-portfolio.png" height = 30 /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://daniel-carpenter.github.io/Portfolio/resume.html"><img src="img/my-resume.png" height = 30 /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/dbry1024/"><img src="img/linkedin.png" height = 30 /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="mailto:dbry1024@gmail.com"><img src="img/contact-me.png" height = 30 /></a>
 
-> Currently, I am a consultant that informs executive-decision making for operational objectives.  
-> This role applies my prior experience and education within data science, financial, statistical and economic modeling, and leadership.
+> I help advise executive leadership on enterprise-level capital projects, while concurrently developing the Chickasaw Nation's approach to algorithmic investment modeling. Within these areas, I apply and build my experience in data science, finance, economics, and leadership. In 2023, I obtained a Master's in Data Science at the University of Oklahoma's College of Engineering.
+
+---
 
 <br>
 
-## My Projects and Past Experiences
+
+## Check Out My Portfolio
+
+> This repository showcases shareable projects. Click image or view my portfolio at [daniel-carpenter.github.io/Portfolio](https://daniel-carpenter.github.io/Portfolio/).
+
+<a target="_blank" href="https://daniel-carpenter.github.io/Portfolio/"><img src="img/site-preview.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+---
+
+<br>
+
+## Other Noteworthy Repositories on My GitHub
 
 ### 📊 Data Science 
 Topic | Description
